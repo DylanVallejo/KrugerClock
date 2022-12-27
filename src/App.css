@@ -116,7 +116,7 @@ body {
   --rotation: 0;
   width: 7px;
   height: 40%;
-  background: black;
+  background: rgb(88, 139, 235);
   animation: second 60s infinite linear;
 }
 
@@ -124,6 +124,6 @@ body {
   --rotation: 0;
   width: 10px;
   height: 35%;
-  background: black;
+  background: rgb(131, 234, 111);
   animation: second 60s infinite linear;
 }
